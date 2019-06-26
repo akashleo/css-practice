@@ -1,0 +1,14 @@
+h1{
+     color: rgb(26, 194, 35);
+     background: rgba(228, 149, 32, 0.5);
+     font-family: 'Montserrat', sans-serif;
+     font-size: 60px;
+     text-align: center;
+     border: 5px dashed darkred;
+     text-align: center;
+     padding: 4rem;
+}
+
+.body{
+     background: greenyellow;
+}
